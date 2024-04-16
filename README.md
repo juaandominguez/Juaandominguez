@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Social Networks</h3>
+<h3 align="center">Social Networks</h3>
 
 ###
 <div align="center">
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">Languages / Frameworks / Tools</h3>
+<h3 align="center">Languages / Frameworks / Tools</h3>
 
 ###
 <div align="center">
