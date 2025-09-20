@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm currently studying Computer Science Engineering at UDC.<br><br>I'm also a passionate software engineer, interested in AI and cybersecurity, and I've competed in several hackatons and won many of them.<br><br>I'm always eager to learn and to face new challenges!</p>
+<p align="left">I'm currently working as an SDE at Amazon.<br><br>I'm also a passionate software engineer, interested in AI and cybersecurity, and I've competed in several hackatons and won many of them.<br><br>I'm always eager to learn and to face new challenges!</p>
 
 ###
 
